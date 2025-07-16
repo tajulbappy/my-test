@@ -1,2 +1,5 @@
 Some text added here for check remote repo 
 then we pull to local repo
+
+Everything is ok now.
+thanks git & gitHub
